@@ -1,0 +1,74 @@
+[33mcommit 0c3b4ece68726503f638f4857d52009d8751df30[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 11:14:04 2024 +0300
+
+    Gerasimov's commit of general file
+
+[33mcommit 6de70bb05e71c087c18645fcf90fd92dd26cbddc[m
+Author: DimaShilov <mitya.shilov.02@mail.ru>
+Date:   Fri Apr 19 11:09:08 2024 +0300
+
+    shilov commit
+
+[33mcommit 7ba32291bd421a7c40e268e1f5451aa8fb61c210[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:34:51 2024 +0300
+
+    seventh commit
+
+[33mcommit 334bd0e92befdbbc60265b0df67a53c0bdd75a00[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:29:20 2024 +0300
+
+    sixth commit
+    good
+
+[33mcommit 5ae9131b9204372b5b345107d3bcd47e49bd455b[m
+Merge: 40ec0f9 1eefe94
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:11:05 2024 +0300
+
+    fifth commit
+
+[33mcommit 40ec0f9205e1b7d2231e54354c92806650641c01[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:08:07 2024 +0300
+
+    fifth commit
+
+[33mcommit 1eefe94911b6ff9d74680b82fee16db06c3e8bce[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:06:12 2024 +0300
+
+    fourth commit
+
+[33mcommit 6cdddb51bc09734c3ceeceb8080eb8d6d5d1c9de[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 10:03:49 2024 +0300
+
+    third commit
+
+[33mcommit 7abcff44ed70a01576c8e74c75e4d71c9c3ed534[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 09:55:51 2024 +0300
+
+    second commit
+
+[33mcommit b8a63b56cd8ba8f4d269dbe1c456557bf31aaa66[m
+Merge: a33650d 23571f8
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 09:45:29 2024 +0300
+
+    Merge branch 'master' of https://github.com/sselfassured/GerasimovDS_ADB-21-08
+
+[33mcommit 23571f8e8f6fbad23744610a127037c94062b56e[m
+Author: sselfassured <133086485+sselfassured@users.noreply.github.com>
+Date:   Fri Apr 19 09:34:49 2024 +0300
+
+    Create README.md
+
+[33mcommit a33650d8c920b8efdc6f57659fc695e7e87d1bf4[m
+Author: Gerasimov Dmitry <dmitrygs2019@ya.ru>
+Date:   Fri Apr 19 09:21:59 2024 +0300
+
+    first commit
